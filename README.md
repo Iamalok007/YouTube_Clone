@@ -1,7 +1,5 @@
 # YouTube Clone with Context API
 
-![YouTube Clone Logo](https://icons8.com/icon/19318/youtube)
-
 ## Overview
 
 This project is a YouTube clone built using React and the Context API for state management. It leverages the Rapid API for fetching YouTube data, including video details, related videos, and search functionality.
