@@ -1,6 +1,6 @@
 # YouTube Clone with Context API
 
-![YouTube Clone Logo](link_to_your_logo_image.png)
+![YouTube Clone Logo](https://icons8.com/icon/19318/youtube)
 
 ## Overview
 
